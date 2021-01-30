@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "learn-azure-angular-app"
+    }
+  },
+  "defaultProject": "learn-azure-angular-app",
+  "cli": {
+    "analytics": "146d6908-56e2-4109-833b-2452b68e56f0"
+  }
 }
